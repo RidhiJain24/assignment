@@ -1,11 +1,4 @@
-# 🌟 Project Name
-
-## 📌 Description
-A brief overview of the project and what it does.
-
-## 🎨 Demo Preview (HTML & CSS)
-Here is a simple **HTML & CSS** snippet from the project:
-
+#UNITED
 ```html
 <!DOCTYPE html>
 <html lang="en">
